@@ -27,7 +27,7 @@ STATIONS = {
     "940GZZLUSTD": "Stratford",           # shopping + West Ham
     "940GZZLUWSM": "Westminster",         # tourists
     "940GZZLUWYP": "Wembley Park",        # stadium events
-    "940GZZLUASL": "Arsenal",             # football
+    "940GZZLUASL": "Finsbury Park",             # football
 }
 
 CROWD_FIELDS = ["fetched_utc", "naptan", "station", "data_available",
