@@ -39,3 +39,23 @@ fetched_utc,line_id,line_name,mode,severity,status,reason
 2026-10-09T23:20:41+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,
 2026-10-09T23:20:41+00:00,weaver,Weaver,overground,10,Good Service,
 2026-10-09T23:20:41+00:00,windrush,Windrush,overground,10,Good Service,
+2026-10-09T23:36:26+00:00,bakerloo,Bakerloo,tube,10,Good Service,
+2026-10-09T23:36:26+00:00,central,Central,tube,10,Good Service,
+2026-10-09T23:36:26+00:00,circle,Circle,tube,10,Good Service,
+2026-10-09T23:36:26+00:00,district,District,tube,9,Minor Delays,"District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route."
+2026-10-09T23:36:26+00:00,district,District,tube,6,Severe Delays,"District Line: Severe delays between Earl's Court and Wimbledon due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, and C2C services via any reasonable route."
+2026-10-09T23:36:26+00:00,dlr,DLR,dlr,10,Good Service,
+2026-10-09T23:36:26+00:00,elizabeth,Elizabeth line,elizabeth-line,10,Good Service,
+2026-10-09T23:36:26+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-10-09T23:36:26+00:00,jubilee,Jubilee,tube,10,Good Service,
+2026-10-09T23:36:26+00:00,liberty,Liberty,overground,10,Good Service,
+2026-10-09T23:36:26+00:00,lioness,Lioness,overground,10,Good Service,
+2026-10-09T23:36:26+00:00,metropolitan,Metropolitan,tube,10,Good Service,
+2026-10-09T23:36:26+00:00,mildmay,Mildmay,overground,10,Good Service,
+2026-10-09T23:36:26+00:00,northern,Northern,tube,10,Good Service,
+2026-10-09T23:36:26+00:00,piccadilly,Piccadilly,tube,10,Good Service,
+2026-10-09T23:36:26+00:00,suffragette,Suffragette,overground,10,Good Service,
+2026-10-09T23:36:26+00:00,victoria,Victoria,tube,10,Good Service,
+2026-10-09T23:36:26+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.
+2026-10-09T23:36:26+00:00,weaver,Weaver,overground,10,Good Service,
+2026-10-09T23:36:26+00:00,windrush,Windrush,overground,10,Good Service,
