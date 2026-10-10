@@ -1269,3 +1269,22 @@ fetched_utc,line_id,line_name,mode,severity,status,reason
 2026-10-10T19:04:36+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
 2026-10-10T19:04:36+00:00,weaver,Weaver,overground,10,Good Service,
 2026-10-10T19:04:36+00:00,windrush,Windrush,overground,9,Minor Delays,Windrush Line: Minor delays due to train cancellations.
+2026-10-10T19:21:58+00:00,bakerloo,Bakerloo,tube,9,Minor Delays,Bakerloo Line: Minor delays due to train cancellations.
+2026-10-10T19:21:58+00:00,central,Central,tube,10,Good Service,
+2026-10-10T19:21:58+00:00,circle,Circle,tube,5,Part Closure,"CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)"
+2026-10-10T19:21:58+00:00,district,District,tube,5,Part Closure,"DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate."
+2026-10-10T19:21:58+00:00,dlr,DLR,dlr,5,Part Closure,"DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
+2026-10-10T19:21:58+00:00,elizabeth,Elizabeth line,elizabeth-line,10,Good Service,
+2026-10-10T19:21:58+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-10-10T19:21:58+00:00,jubilee,Jubilee,tube,10,Good Service,
+2026-10-10T19:21:58+00:00,liberty,Liberty,overground,10,Good Service,
+2026-10-10T19:21:58+00:00,lioness,Lioness,overground,7,Reduced Service,"LIONESS LINE: Saturday 10 and Sunday 11 October, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
+2026-10-10T19:21:58+00:00,metropolitan,Metropolitan,tube,10,Good Service,
+2026-10-10T19:21:58+00:00,mildmay,Mildmay,overground,10,Good Service,
+2026-10-10T19:21:58+00:00,northern,Northern,tube,10,Good Service,
+2026-10-10T19:21:58+00:00,piccadilly,Piccadilly,tube,10,Good Service,
+2026-10-10T19:21:58+00:00,suffragette,Suffragette,overground,10,Good Service,
+2026-10-10T19:21:58+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to an earlier fire alert at Blackhorse Road. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route."
+2026-10-10T19:21:58+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+2026-10-10T19:21:58+00:00,weaver,Weaver,overground,10,Good Service,
+2026-10-10T19:21:58+00:00,windrush,Windrush,overground,9,Minor Delays,Windrush Line: Minor delays due to train cancellations.
