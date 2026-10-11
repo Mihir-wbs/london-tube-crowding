@@ -1406,3 +1406,23 @@ fetched_utc,line_id,line_name,mode,severity,status,reason
 2026-10-11T22:21:32+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
 2026-10-11T22:21:32+00:00,weaver,Weaver,overground,10,Good Service,
 2026-10-11T22:21:32+00:00,windrush,Windrush,overground,5,Part Closure,"WINDRUSH LINE: Sunday 11 October, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction."
+2026-10-11T22:38:44+00:00,bakerloo,Bakerloo,tube,6,Severe Delays,Bakerloo Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses.
+2026-10-11T22:38:44+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between Woodford and Hainault while we fix a points failure at Hainault. GOOD SERVICE on the rest of the line.
+2026-10-11T22:38:44+00:00,circle,Circle,tube,5,Part Closure,"CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)"
+2026-10-11T22:38:44+00:00,district,District,tube,5,Part Closure,"DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate."
+2026-10-11T22:38:44+00:00,dlr,DLR,dlr,5,Part Closure,"DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
+2026-10-11T22:38:44+00:00,elizabeth,Elizabeth line,elizabeth-line,10,Good Service,
+2026-10-11T22:38:44+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-10-11T22:38:44+00:00,jubilee,Jubilee,tube,10,Good Service,
+2026-10-11T22:38:44+00:00,liberty,Liberty,overground,10,Good Service,
+2026-10-11T22:38:44+00:00,lioness,Lioness,overground,9,Minor Delays,Lioness Line: Minor delays due to an earlier customer incident at Willesden Junction.
+2026-10-11T22:38:44+00:00,metropolitan,Metropolitan,tube,10,Good Service,
+2026-10-11T22:38:44+00:00,mildmay,Mildmay,overground,7,Reduced Service,"MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
+2026-10-11T22:38:44+00:00,northern,Northern,tube,10,Good Service,
+2026-10-11T22:38:44+00:00,piccadilly,Piccadilly,tube,10,Good Service,
+2026-10-11T22:38:44+00:00,suffragette,Suffragette,overground,7,Reduced Service,"SUFFRAGETTE LINE: Sunday 11 October, the 2310 train from Gospel Oak to Barking Riverside will not run"
+2026-10-11T22:38:44+00:00,suffragette,Suffragette,overground,4,Planned Closure,"SUFFRAGETTE LINE: Sunday 11 October, until 0845 and after 2300, no service between Gospel Oak and Barking Riverside. Please use local London Buses and London Underground services as no replacement bus services will operate for this closure."
+2026-10-11T22:38:44+00:00,victoria,Victoria,tube,10,Good Service,
+2026-10-11T22:38:44+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+2026-10-11T22:38:44+00:00,weaver,Weaver,overground,10,Good Service,
+2026-10-11T22:38:44+00:00,windrush,Windrush,overground,5,Part Closure,"WINDRUSH LINE: Sunday 11 October, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction."
