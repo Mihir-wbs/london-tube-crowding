@@ -18,3 +18,22 @@ fetched_utc,line_id,line_name,mode,severity,status,reason
 2026-10-12T23:01:19+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,
 2026-10-12T23:01:19+00:00,weaver,Weaver,overground,5,Part Closure,"WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
 2026-10-12T23:01:19+00:00,windrush,Windrush,overground,10,Good Service,
+2026-10-12T23:22:34+00:00,bakerloo,Bakerloo,tube,10,Good Service,
+2026-10-12T23:22:34+00:00,central,Central,tube,10,Good Service,
+2026-10-12T23:22:34+00:00,circle,Circle,tube,10,Good Service,
+2026-10-12T23:22:34+00:00,district,District,tube,10,Good Service,
+2026-10-12T23:22:34+00:00,dlr,DLR,dlr,10,Good Service,
+2026-10-12T23:22:34+00:00,elizabeth,Elizabeth line,elizabeth-line,3,Part Suspended,"No service between Whitechapel and Shenfield while we deal with trespassers on the track at Romford. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, London Underground, C2C and Greater Anglia."
+2026-10-12T23:22:34+00:00,hammersmith-city,Hammersmith & City,tube,9,Minor Delays,Hammersmith and City Line: Minor delays due to train cancellations.
+2026-10-12T23:22:34+00:00,jubilee,Jubilee,tube,10,Good Service,
+2026-10-12T23:22:34+00:00,liberty,Liberty,overground,10,Good Service,
+2026-10-12T23:22:34+00:00,lioness,Lioness,overground,10,Good Service,
+2026-10-12T23:22:34+00:00,metropolitan,Metropolitan,tube,10,Good Service,
+2026-10-12T23:22:34+00:00,mildmay,Mildmay,overground,10,Good Service,
+2026-10-12T23:22:34+00:00,northern,Northern,tube,10,Good Service,
+2026-10-12T23:22:34+00:00,piccadilly,Piccadilly,tube,10,Good Service,
+2026-10-12T23:22:34+00:00,suffragette,Suffragette,overground,10,Good Service,
+2026-10-12T23:22:34+00:00,victoria,Victoria,tube,10,Good Service,
+2026-10-12T23:22:34+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,
+2026-10-12T23:22:34+00:00,weaver,Weaver,overground,5,Part Closure,"WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
+2026-10-12T23:22:34+00:00,windrush,Windrush,overground,10,Good Service,
