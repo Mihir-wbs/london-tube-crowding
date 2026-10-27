@@ -219,3 +219,24 @@ fetched_utc,line_id,line_name,mode,severity,status,reason
 2026-10-27T07:10:57+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,
 2026-10-27T07:10:57+00:00,weaver,Weaver,overground,10,Good Service,
 2026-10-27T07:10:57+00:00,windrush,Windrush,overground,10,Good Service,
+2026-10-27T08:03:23+00:00,bakerloo,Bakerloo,tube,9,Minor Delays,Bakerloo Line: Minor delays due to train cancellations.
+2026-10-27T08:03:23+00:00,central,Central,tube,10,Good Service,
+2026-10-27T08:03:23+00:00,circle,Circle,tube,10,Good Service,
+2026-10-27T08:03:23+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays due to train cancellations.
+2026-10-27T08:03:23+00:00,dlr,DLR,dlr,10,Good Service,
+2026-10-27T08:03:23+00:00,elizabeth,Elizabeth line,elizabeth-line,6,Severe Delays,"No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services."
+2026-10-27T08:03:23+00:00,elizabeth,Elizabeth line,elizabeth-line,3,Part Suspended,"No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS between Abbey Wood and Paddington while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Southwestern, Thameslink, DLR, South Western Railways and Chiltern Railway services."
+2026-10-27T08:03:23+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-10-27T08:03:23+00:00,jubilee,Jubilee,tube,10,Good Service,
+2026-10-27T08:03:23+00:00,liberty,Liberty,overground,10,Good Service,
+2026-10-27T08:03:23+00:00,lioness,Lioness,overground,10,Good Service,
+2026-10-27T08:03:23+00:00,metropolitan,Metropolitan,tube,10,Good Service,
+2026-10-27T08:03:23+00:00,mildmay,Mildmay,overground,10,Good Service,
+2026-10-27T08:03:23+00:00,northern,Northern,tube,6,Severe Delays,"Northern Line: Severe delays while we fix a signal failure at Balham. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway Services."
+2026-10-27T08:03:23+00:00,piccadilly,Piccadilly,tube,10,Good Service,
+2026-10-27T08:03:23+00:00,suffragette,Suffragette,overground,9,Minor Delays,Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week.
+2026-10-27T08:03:23+00:00,suffragette,Suffragette,overground,3,Part Suspended,Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week.
+2026-10-27T08:03:23+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.
+2026-10-27T08:03:23+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,
+2026-10-27T08:03:23+00:00,weaver,Weaver,overground,10,Good Service,
+2026-10-27T08:03:23+00:00,windrush,Windrush,overground,10,Good Service,
