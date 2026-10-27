@@ -62,3 +62,22 @@ fetched_utc,line_id,line_name,mode,severity,status,reason
 2026-10-27T01:28:39+00:00,weaver,Weaver,overground,20,Service Closed,Weaver Line: Service will resume later this morning.
 2026-10-27T01:28:39+00:00,windrush,Windrush,overground,5,Part Closure,"WINDRUSH LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. The 2232 and 2247 trains from Highbury & Islington to West Croydon will both divert to Crystal Palace. The 2338 train from Dalston Junction to New Cross Gate will not run"
 2026-10-27T01:28:39+00:00,windrush,Windrush,overground,20,Service Closed,Windrush Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,bakerloo,Bakerloo,tube,20,Service Closed,Bakerloo Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,central,Central,tube,20,Service Closed,Central Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,circle,Circle,tube,20,Service Closed,Circle Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,district,District,tube,20,Service Closed,District Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,dlr,DLR,dlr,20,Service Closed,Docklands Light Railway: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,elizabeth,Elizabeth line,elizabeth-line,20,Service Closed,Service will resume later this morning.
+2026-10-27T02:11:14+00:00,hammersmith-city,Hammersmith & City,tube,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,jubilee,Jubilee,tube,20,Service Closed,Jubilee Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,liberty,Liberty,overground,20,Service Closed,Liberty Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,lioness,Lioness,overground,20,Service Closed,Lioness Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,metropolitan,Metropolitan,tube,20,Service Closed,Metropolitan Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,mildmay,Mildmay,overground,20,Service Closed,Mildmay Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,northern,Northern,tube,20,Service Closed,Northern Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,suffragette,Suffragette,overground,20,Service Closed,Suffragette Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.
+2026-10-27T02:11:14+00:00,weaver,Weaver,overground,20,Service Closed,Weaver Line: Service will resume later this morning.
+2026-10-27T02:11:14+00:00,windrush,Windrush,overground,20,Service Closed,Windrush Line: Service will resume later this morning.
