@@ -299,3 +299,15 @@ fetched_utc,naptan,station,data_available,pct_of_baseline,tfl_time_utc,error
 2026-10-28T20:42:01+00:00,940GZZLUWSM,Westminster,True,0.19219159,2026-10-28T20:31:00.000Z,
 2026-10-28T20:42:01+00:00,940GZZLUWYP,Wembley Park,True,0.05952381,2026-10-28T20:31:00.000Z,
 2026-10-28T20:42:01+00:00,940GZZLUFPK,Finsbury Park,False,0,,
+2026-10-28T21:22:36+00:00,940GZZLUWLO,Waterloo,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLULVT,Liverpool Street,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLUBNK,Bank,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLUCYF,Canary Wharf,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLUKSX,King's Cross St Pancras,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLUVIC,Victoria,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLUOXC,Oxford Circus,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLULSQ,Leicester Square,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLUSTD,Stratford,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLUWSM,Westminster,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLUWYP,Wembley Park,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
+2026-10-28T21:22:36+00:00,940GZZLUFPK,Finsbury Park,,,,"HTTPSConnectionPool(host='api.tfl.gov.uk', port=443): Read timed out. (read timeout=20)"
