@@ -511,3 +511,26 @@ fetched_utc,line_id,line_name,mode,severity,status,reason
 2026-10-29T22:23:39+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,
 2026-10-29T22:23:39+00:00,weaver,Weaver,overground,10,Good Service,
 2026-10-29T22:23:39+00:00,windrush,Windrush,overground,10,Good Service,
+2026-10-29T23:12:33+00:00,bakerloo,Bakerloo,tube,10,Good Service,
+2026-10-29T23:12:33+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.
+2026-10-29T23:12:33+00:00,circle,Circle,tube,10,Good Service,
+2026-10-29T23:12:33+00:00,district,District,tube,10,Good Service,
+2026-10-29T23:12:33+00:00,dlr,DLR,dlr,10,Good Service,
+2026-10-29T23:12:33+00:00,elizabeth,Elizabeth line,elizabeth-line,10,Good Service,
+2026-10-29T23:12:33+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-10-29T23:12:33+00:00,jubilee,Jubilee,tube,9,Minor Delays,Jubilee Line: Minor delays due to train cancellations.
+2026-10-29T23:12:33+00:00,liberty,Liberty,overground,10,Good Service,
+2026-10-29T23:12:33+00:00,lioness,Lioness,overground,10,Good Service,
+2026-10-29T23:12:33+00:00,metropolitan,Metropolitan,tube,6,Severe Delays,"Metropolitan Line: Severe delays due to an earlier signal failure at Harrow-on-the Hill. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink services."
+2026-10-29T23:12:33+00:00,mildmay,Mildmay,overground,7,Reduced Service,"MILDMAY LINE: Monday 26, Tuesday 27, Wednesday 28 and Thursday 29 October, the 2147 Clapham Junction to Stratford train will not run. The 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction. The 2249 train from Richmond to Stratford will terminate at Willesden Junction at 2306"
+2026-10-29T23:12:33+00:00,mildmay,Mildmay,overground,5,Part Closure,"MILDMAY LINE: Wednesday 28 and Thursday 29 October, after 2300 each evening, no eastbound service from Willesden Junction to Stratford. Customers should use the last eastbound services detailed or London Overground services to Euston. Last through trains: Clapham Junction to Stratford 2218; Richmond to Stratford 2232; Willesden Junction to Stratford 2252. In addition, the 2249 train from Richmond to Stratford will not run, the 2302 train from Richmond to Stratford will terminate at Willesden Junction and the 2318 train from Richmond to Willesden Junction will not run"
+2026-10-29T23:12:33+00:00,mildmay,Mildmay,overground,6,Severe Delays,Mildmay Line: Severe delays between Stratford and Willesden Junction while we deal with a trespasser on the track at Camden Road. GOOD SERVICE on the rest of the line.
+2026-10-29T23:12:33+00:00,northern,Northern,tube,10,Good Service,
+2026-10-29T23:12:33+00:00,piccadilly,Piccadilly,tube,5,Part Closure,"PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
+2026-10-29T23:12:33+00:00,suffragette,Suffragette,overground,7,Reduced Service,"SUFFRAGETTE LINE: Monday 26, Tuesday 27, Wednesday 28, Thursday 29 and Friday 30 October, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338"
+2026-10-29T23:12:33+00:00,suffragette,Suffragette,overground,5,Part Closure,Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until early next week.
+2026-10-29T23:12:33+00:00,suffragette,Suffragette,overground,9,Minor Delays,Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes. Disruption expected until the end of the week.
+2026-10-29T23:12:33+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.
+2026-10-29T23:12:33+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,
+2026-10-29T23:12:33+00:00,weaver,Weaver,overground,10,Good Service,
+2026-10-29T23:12:33+00:00,windrush,Windrush,overground,10,Good Service,
